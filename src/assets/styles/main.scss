@@ -1,0 +1,44 @@
+@use "normalize.css";
+@use "./abstracts" as *;
+
+@font-face {
+  font-family: BarlowSemiCondensed;
+  src: url("../fonts/BarlowSemiCondensed-Medium.woff2") format("woff2"),
+    url("../fonts/BarlowSemiCondensed-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: BarlowSemiCondensed;
+  src: url("../fonts/BarlowSemiCondensed-SemiBold.woff2") format("woff2"),
+    url("../fonts/BarlowSemiCondensed-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+
+
+img,
+svg {
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+  @include body($f-family: "BarlowSemiCondensed", $fs: rem(13));
+}
+
