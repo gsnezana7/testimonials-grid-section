@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/gsnezana7/four-card-feature-vue-scss)
+- Solution URL: [GitHub Repository](https://github.com/gsnezana7/testimonials-grid-section/four-card-feature-vue-scss)
 - Live Site URL: [https://testimonials-grid-section-vue.netlify.app/](https://testimonials-grid-section-vue.netlify.app/)
 
 ## My process
