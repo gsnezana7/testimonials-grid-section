@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/gsnezana7/four-card-feature-vue-scss)
+- Live Site URL: [https://testimonials-grid-section-vue.netlify.app/](https://testimonials-grid-section-vue.netlify.app/)
 
 ## My process
 
