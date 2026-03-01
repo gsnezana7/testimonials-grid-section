@@ -37,15 +37,21 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS Grid (using `grid-template-areas` for the stepped layout)
-- SCSS (BEM methodology, mixins, and variables)
+- **CSS Grid** - Used for the complex 5-card testimonial layout
+- **SCSS** - Utilized nesting and variables for cleaner, more maintainable styles
+- **Vue.js** - Used to structure the project as a component-based application
 - Mobile-first workflow
-- [Vue.js 3](https://vuejs.org) - Progressive JS Framework
-- [Vite](https://vitejs.dev) - Build tool
+- **Lighthouse** - Conducted audits to ensure high performance and accessib
 
 ### What I learned
 
-I practiced creating a complex layout using CSS Grid areas to position the cards according to the design.
+This project was a great way to practice **CSS Grid** in a real-world scenario. I focused on creating a responsive grid that adapts perfectly from mobile to desktop.
+
+Specifically, I learned how to:
+
+- Use `grid-template-areas` to define the layout structure clearly.
+- Manage component-specific styles in **Vue** using scoped SCSS.
+- Improve **Lighthouse** accessibility scores by using proper semantic tags and aria-labels.
 
 ### AI Collaboration
 
