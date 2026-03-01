@@ -31,7 +31,7 @@
   flex-direction: column;
 }
 
-@mixin body($f-family: sans-serif, $fs: rem(16), $bg: $Grey-100, $color: hsl(0, 0%, 0%)) {
+@mixin body($f-family: sans-serif, $fs: rem(13), $bg: $Grey-100, $color: hsl(0, 0%, 0%)) {
   margin: 0 auto;
   width: 100%;
   min-height: 100vh;
